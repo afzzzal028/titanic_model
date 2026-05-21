@@ -1,6 +1,3 @@
-# titanic_model
-Titanic survival prediction project using Logistic Regression, data preprocessing, feature selection, and exploratory data analysis in Python.
-
 # Titanic Survival Prediction
 
 A beginner-friendly machine learning project that predicts whether a passenger survived the Titanic disaster using Logistic Regression.
